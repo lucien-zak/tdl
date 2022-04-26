@@ -1,0 +1,37 @@
+main {
+  height: 100vh;
+  color: #fff;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+}
+
+main div {
+  height: 40vh;
+  background-color: #000;
+  border-radius: 8px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10vw;
+  display: flex;
+}
+
+form {
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  font-size: 1.1rem;
+  display: flex;
+}
+
+form label {
+  align-self: start;
+}
+
+form input {
+  margin-bottom: 16px;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
